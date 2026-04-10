@@ -102,7 +102,7 @@ This project aims to build a **real-time system** that can reliably detect synth
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/gan-synthetic-audio-detection.git
+   git clone https://github.com/MansiRana3/gan-synthetic-audio-detection.git
 Install dependencies
 
 pip install -r requirements.txt
